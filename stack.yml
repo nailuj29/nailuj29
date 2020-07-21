@@ -24,3 +24,30 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/nailuj29gaming/countdown-android
+    
+
+- name: FabricMC
+  logo: java
+  url: fabricmc.net
+  color: DBD0B4
+  logoColor: 000000
+  projects:
+    - url: https://github.com/nailuj29gaming/moreminerals-fabric
+      wip: true
+      
+- name: Kotlin
+  logo: kotlin
+  url: https://kotlinlang.org
+  color: 0095D5
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/nailuj29gaming/countdown-android
+   
+- name: Java
+  logo: java
+  url: java.com
+  color: 007396
+  logoColor: FFFFFF
+  projects:
+    - url: https://github.com/nailuj29gaming/moreminerals-fabric
+      wip: true
