@@ -5,7 +5,7 @@
   logoColor: FFFFFF
   projects:
     - url: https://github.com/nailuj29gaming/flutter_countdown
-    - wip: true
+      wip: true
     
 - name: Flutter
   logo: flutter
@@ -14,7 +14,7 @@
   logoColor: FFFFFF
   projects:
     - url: https://github.com/nailuj29gaming/flutter_countdown
-    - wip: true
+      wip: true
 
 
 - name: Android
