@@ -1,6 +1,8 @@
 ### Nailuj29Gaming
 
 I am both a twitch streamer and a developer. I mostly develop mobile apps and minecraft mods.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nailuj29gaming)](https://github.com/anuraghazra/github-readme-stats)
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
