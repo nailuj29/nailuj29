@@ -4,8 +4,7 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - url: https://github.com/nailuj29gaming/flutter_countdown
-      wip: true
+    - https://github.com/nailuj29gaming/flutter_countdown
     
 - name: Flutter
   logo: flutter
@@ -13,9 +12,7 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - url: https://github.com/nailuj29gaming/flutter_countdown
-      wip: true
-
+    - https://github.com/nailuj29gaming/flutter_countdown
 
 - name: Android
   logo: android
