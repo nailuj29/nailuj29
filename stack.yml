@@ -28,7 +28,7 @@
   logo: java
   url: fabricmc.net
   color: DBD0B4
-  logoColor: 000000
+  logoColor: "000000"
   projects:
     - url: https://github.com/nailuj29gaming/moreminerals-fabric
       wip: true
