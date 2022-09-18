@@ -4,8 +4,8 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - https://github.com/nailuj29gaming/flutter_countdown
-    - https://github.com/nailuj29gaming/length
+    - https://github.com/nailuj29/flutter_countdown
+    - https://github.com/LengthLang/length
     
 - name: Flutter
   logo: flutter
@@ -13,39 +13,12 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - https://github.com/nailuj29gaming/flutter_countdown
-
-- name: Android
-  logo: android
-  url: https://developer.android.com
-  color: 3DDC84
-  logoColor: FFFFFF
-  projects:
-    - https://github.com/nailuj29gaming/countdown-android
-    
-
-- name: FabricMC
-  logo: java
-  url: fabricmc.net
-  color: DBD0B4
-  logoColor: "000000"
-  projects:
-    - url: https://github.com/nailuj29gaming/moreminerals-fabric
-      wip: true
+    - https://github.com/nailuj29/flutter_countdown
       
-- name: Kotlin
-  logo: kotlin
-  url: https://kotlinlang.org
-  color: 0095D5
-  logoColor: FFFFFF
+- name: Rust
+  logo: rust
+  url: https://rust-lang.org
+  color: DEA584
+  logoColor: 000000
   projects:
-    - https://github.com/nailuj29gaming/countdown-android
-   
-- name: Java
-  logo: java
-  url: java.com
-  color: 007396
-  logoColor: FFFFFF
-  projects:
-    - url: https://github.com/nailuj29gaming/moreminerals-fabric
-      wip: true
+    - https://github.com/LengthLang/lengthlvm
