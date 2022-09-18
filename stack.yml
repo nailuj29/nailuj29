@@ -4,8 +4,8 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - https://github.com/nailuj29/flutter_countdown
-    - https://github.com/LengthLang/length
+    - url: https://github.com/nailuj29/flutter_countdown
+    - url: https://github.com/LengthLang/length
     
 - name: Flutter
   logo: flutter
@@ -13,7 +13,7 @@
   color: 52C0F2
   logoColor: FFFFFF
   projects:
-    - https://github.com/nailuj29/flutter_countdown
+    - url: https://github.com/nailuj29/flutter_countdown
       
 - name: Rust
   logo: rust
@@ -21,4 +21,4 @@
   color: DEA584
   logoColor: 000000
   projects:
-    - https://github.com/LengthLang/lengthlvm
+    - url: https://github.com/LengthLang/lengthlvm
