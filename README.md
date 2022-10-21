@@ -1,6 +1,6 @@
 ### Nailuj29Gaming
 
-I am both a twitch streamer and a developer. I mostly develop mobile apps and minecraft mods.
+I am both a student and a developer. I mostly develop projects that will inevitably be abandoned a week later.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nailuj29&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
